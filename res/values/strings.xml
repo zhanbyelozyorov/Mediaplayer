@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="action_search">search</string>
+    <string name="action_refresh">refresh</string>
+
+    <string name="add">Add</string>
+    <string name="text">Enter text</string>
+    <string name="no_records">There are no records in the table</string>
+    <string name="search_hint">Search the records</string>
+    <string name="search">Search</string>
+    <string name="sort_by_title">sort by title</string>
+    <string name="sort_by_album">sort by album</string>
+    <string name="sort_by_artist">sort by artist</string>
+    <string name="sort_by_running_time">sort by running time</string>
+</resources>

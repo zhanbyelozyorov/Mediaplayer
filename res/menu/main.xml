@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/ic_search_black_48dp"
+          android:title="@string/action_search"
+          android:showAsAction="always"/>
+
+    <item android:id="@+id/action_refresh"
+          android:icon="@drawable/ic_refresh_black_48dp"
+          android:title="@string/action_refresh"
+          android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/sort_by_title"
+          android:title="@string/sort_by_title"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/sort_by_album"
+          android:title="@string/sort_by_album"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/sort_by_artist"
+          android:title="@string/sort_by_artist"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/sort_by_running_time"
+          android:title="@string/sort_by_running_time"
+          android:showAsAction="never" />
+</menu>
